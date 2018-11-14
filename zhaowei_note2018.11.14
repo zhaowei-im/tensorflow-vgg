@@ -1,0 +1,5 @@
+env:
+python 2.7
+tensorflow 1.0.1
+yaml
+skdata 0.0.4
